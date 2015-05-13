@@ -15,5 +15,5 @@
 *.aliases
 *.lvlps
 
-#Builds
+#Builds Folder
 builds/*
