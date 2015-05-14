@@ -143,9 +143,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Teleop VIs" Type="Folder" URL="../Teleop VIs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
 		<Item Name="Utility VIs" Type="Folder" URL="../Utility VIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
